@@ -1,12 +1,4 @@
-kev:
-  name: Kev Quirk
-  email: kev@fosstodon.org
-  url: https://fosstodon.org/@kev
-mike:
-  name: Mike Stone
-  email: mike@fosstodon.org
-  url: https://fosstodon.org/@mike
-cooper:
-  name: Cooper
-  email: cooper@fosstodon.org
-  url: https://fosstodon.org/@cooper
+tswan:
+  name: tswan
+  email: nutmeg@tswan.me
+  url: https://nutmeg.social/@tswan

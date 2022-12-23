@@ -1,7 +1,7 @@
 ---
-title: Fosstodon Hub
-header: Fosstodon Hub
-description: The largest FOSS focussed instance on the Fediverse.
+title: Nutmeg.social Hub
+header: Nutmeg.social Hub
+description: A regional Mastodon instance for Connecticut
 permalink: /
 layout: default
 ---

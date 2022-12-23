@@ -3,7 +3,7 @@
 title: Something
 
 # Set the author (delete as needed)
-author: kev mike cooper
+author: tswan
 
 # This is the description that shows in the page header
 description: Something else

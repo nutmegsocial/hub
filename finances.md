@@ -1,7 +1,7 @@
 ---
-title: About | Nutmeg.social Hub
-description: Some info on how things work around here.
-permalink: /about/
+title: Finances | Nutmeg.social Hub
+description: Some info on how things are funded.
+permalink: /finances/
 layout: default
 ---
 # About Us
@@ -23,24 +23,29 @@ Our [admin team](/team) is committed to building this community, and funding sho
 
 ## Current funding
 
-The details below are accurate as of **December 22 2022**.
+> The details below are accurate as of **December 23, 2022**.
 
-|             Details                  | Amount (USD) |
-|:-------------------------------------|-------------:|
-| Mastodon server:                     | $11.59/mo    |
-| S3 (media) hosting:                  | $5.99/mo     |
-| Domain name:                         | $24.65/yr    |
-| **Current monthly operating costs:** | **$19.64**   |
-| **Current funds:**                   | **$10.43**   |
-| **Total months funded:**             | **0.5**      |
+**Monthly Revenue: $0.86**
 
+- Ko-fi Subscriptions, $2.00/mo
+- Minus fees, $1.14/mo
+
+**Monthly Expenses: $19.64**
+
+- Mastodon server, $11.59/mo
+- S3 (media) hosting, $5.99/mo
+- Domain name, $24.65/yr
+
+**Gross Margin: -$18.78**
+
+With our current funding of **$35.86**, we have enough donations to support the instance for an estimated **1.9 months**.
 ## Ledger
 
-This is a detailed view of Nutmeg.social's expenses, as well as a monthly summary of donations received.
+> This is a detailed view of Nutmeg.social's expenses, as well as a monthly summary of donations received.
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Dec/22   | Donations (minus fees)           | 11.00     | 0.57       | 10.43   |
-| 12/10/22 | Server Hosting                   |           | 11.59      | 0.00    |
-| 12/10/22 | Domain registration              |           | 24.65      | 11.59   |
-| 12/10/22 | Funding from [admin team](/team) | 36.24     |            | 36.24   |
+| Dec/22   | Donations (minus fees)           | 37.00     | 1.14       |  35.86  |
+| 12/10/22 | Server Hosting                   |           | 11.59      |   0.00  |
+| 12/10/22 | Domain registration              |           | 24.65      |  11.59  |
+| 12/10/22 | Funding from [admin team](/team) | 36.24     |            |  36.24  |

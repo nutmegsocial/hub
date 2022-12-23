@@ -6,7 +6,7 @@ layout: default
 ---
 # Support Us
 
-Running a project like Nutmeg.social [can be expensive](/about/#current-funding) and take a lot of time. If you want to help support the project financially you can do so in a number of ways:
+Running a project like Nutmeg.social [can be expensive](/finances/#current-funding) and take a lot of time. If you want to help support the project financially you can do so in a number of ways:
 
 {% include donate-buttons.html %}
 

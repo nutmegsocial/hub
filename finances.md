@@ -34,7 +34,7 @@ Our [admin team](/team) is committed to building this community, and funding sho
 
 - Mastodon server, $11.59/mo
 - S3 (media) hosting, $5.99/mo
-- Domain name, $24.65/yr
+- Domain name, $24.65/yr (~$2.06/mo)
 
 **Gross Margin: -$18.78**
 

@@ -4,7 +4,7 @@ description: Some info on how things are funded.
 permalink: /finances/
 layout: default
 ---
-# About Us
+# Finances
 
 The whole point of Nutmeg.social is to be a community for people that are connected in some way to the state of Connecticut. Running a social network can be expensive, so [we accept donations in various forms](/support).
 

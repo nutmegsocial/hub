@@ -25,10 +25,10 @@ Our [admin team](/team) is committed to building this community, and funding sho
 
 > The details below are accurate as of **December 23, 2022**.
 
-**Monthly Revenue: $0.86**
+**Monthly Revenue: $3.12**
 
-- Ko-fi Subscriptions, $2.00/mo
-- Minus fees, $1.14/mo
+- Ko-fi Subscriptions, $5.00/mo
+- Minus fees, $1.88/mo
 
 **Monthly Expenses: $19.64**
 
@@ -36,16 +36,16 @@ Our [admin team](/team) is committed to building this community, and funding sho
 - S3 (media) hosting, $5.99/mo
 - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$18.78**
+**Gross Margin: -$16.52**
 
-With our current funding of **$35.86**, we have enough donations to support the instance for an estimated **1.9 months**.
+With our current funding of **$38.12**, we have enough donations to support the instance for an estimated **2.3 months**.
 ## Ledger
 
 > This is a detailed view of Nutmeg.social's expenses, as well as a monthly summary of donations received.
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Dec/22   | Donations (minus fees)           | 37.00     | 1.14       |  35.86  |
+| Dec/22   | Donations (minus fees)           | 40.00     | 1.88       |  38.12  |
 | 12/10/22 | Server Hosting                   |           | 11.59      |   0.00  |
 | 12/10/22 | Domain registration              |           | 24.65      |  11.59  |
 | 12/10/22 | Funding from [admin team](/team) | 36.24     |            |  36.24  |

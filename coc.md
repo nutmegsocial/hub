@@ -45,7 +45,7 @@ All toots (public and private) should abide by the following rules:
 * **Do not be intentionally antagonistic.** A post or reply designed to provoke a confrontation is not acceptable.
 * **Do not post adult content**, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
 * **Do not post spam**. Toots that are nothing other than a link and/or contain an inordinate number of hashtags constitute spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
-* **Do not use automated tools to toot without participating in the communit, without explicit permission from the [Nutmeg.social team](/team)y**. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Nutmeg.social community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
+* **Do not use automated tools to toot without participating in the communit, without explicit permission from the [Nutmeg.social team](/team)**. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Nutmeg.social community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
 
 ## Additional Rules for Public Toots
 

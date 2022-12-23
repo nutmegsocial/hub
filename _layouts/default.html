@@ -3,10 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="title" content="{{ page.title }}">
+    <meta name="description" content="{{ page.description }}" />
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://hub.nutmeg.social">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="https://hub.nutmeg.social/assets/images/nutmeg.png">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://hub.nutmeg.social">
+    <meta property="twitter:title" content="{{ page.title }}">
+    <meta property="twitter:description" content="{{ page.description }}">
+    <meta property="twitter:image" content="https://hub.nutmeg.social/assets/images/nutmeg.png">
+
     <link rel="icon" href="/assets/images/favicon.png" />
     {% feed_meta %}
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}" />
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
 

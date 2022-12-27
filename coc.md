@@ -40,10 +40,13 @@ Users who follow you have consciously opted in to what you have to say. By using
 
 All toots (public and private) should abide by the following rules:
 
-* **Do not use slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language** or promote white supremacy, anti-Semitism, transphobia or other hateful ideologies.
+* **Do not post any illegal content**, including sexual depictions of children, or any other content illegal in the United States (where nutmeg.social is hosted)
+* **Do not use slurs or racist, sexist, genderist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language** or promote white supremacy, anti-Semitism, transphobia or other hateful ideologies.
 * **Do not harass anyone**, participate in group harassment of anyone, or otherwise engage in personal attacks. Posting or threatening to post other people’s personally identifying information ("doxing") constitutes harassment.
 * **Do not be intentionally antagonistic.** A post or reply designed to provoke a confrontation is not acceptable.
-* **Do not post adult content**, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
+* **Do not post adult content without a content warning**, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
+* **Do not spread disinformation or conspiracy theories that undermine public health**. Healthy scientific debate is allowed but baseless, harmful conspiracies will not be tolerated.
+* **Holocaust denial, Nazi symbolism, and promotion of National Socialism is strictly forbidden**.
 * **Do not post spam**. Toots that are nothing other than a link and/or contain an inordinate number of hashtags constitute spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
 * **Do not use automated tools to toot without participating in the communit, without explicit permission from the [Nutmeg.social team](/team)**. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Nutmeg.social community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
 
@@ -56,6 +59,14 @@ Public toots should follow the above rules and should also abide by the followin
 * **Do not debate moderation actions in public toots.** If you disagree with how a moderator enforced this CoC you may direct-message the moderation team or email [hello@nutmeg.social](mailto:hello@nutmeg.social).
 
 Always remember that your public toots are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.
+
+## Stalking, Doxxing, Harassment
+
+Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:
+
+* Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.
+* Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.
+* Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.
 
 ## Reporting Violations
 

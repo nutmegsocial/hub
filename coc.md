@@ -5,8 +5,12 @@ permalink: /coc/
 layout: default
 ---
 # Code of Conduct
+{:.no_toc}
 
 This document lays out the ground rules for participating in the Nutmeg.social community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [Nutmeg.social team](/team) may amend this CoC to better meet these goals in the future.
+
+* TOC
+{:toc}
 
 ## Goals
 
@@ -20,11 +24,12 @@ While it's important to know what Nutmeg.social is, it's just as important to un
 
 * A free speech zone. Nutmeg.social is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on Nutmeg.social, you should agree to follow the community rules set out in this CoC.
 
-## Public Toots
+## Public vs non-Public Toots
+### Public Toots
 
 Public Toots are those that are posted to the public timelines. This means that anyone on Nutmeg.social can see your Toot on the local timeline and anyone on the Internet can see your Toot via the [see what's happening](https://nutmeg.social/public) page. This also means that your Toot will be visible to any instances that Nutmeg.social federates with, via the federated timeline.
 
-## Non-Public Toots
+### Non-Public Toots
 
 At Nutmeg.social, we consider a non-public Toot to be Toots that are not posted to the public timelines. These include Toots that are posted with the following privacy settings:
 

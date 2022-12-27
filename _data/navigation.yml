@@ -16,5 +16,5 @@
 - name: The Team
   link: /team/
 
-- name: Server Status
+- name: Server Status <i class="fa fa-external-link" aria-hidden="true"></i>
   link: https://status.nutmeg.social

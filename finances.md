@@ -10,13 +10,22 @@ Running a social network can be expensive, so [we accept donations in various fo
 
 We want to be as transparent as possible when it comes to the support we receive from our members. You [support us](/support) every single day, so we want to let you know where your hard earned money is going.
 
-## Funding Strategy
+## Current funding
+
+*Last updated **December 28, 2022**.*
+
+<label for="margin">Recurring donations/sponsorships currently cover about 15% of our monthly expenses.</label>
+<progress id="margin" value="3.12" max="19.64"></progress>
+
+We currently have **$38.12** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **2.3 months**.
+
+## How funds are assigned
 
 <aside markdown="1">
 
-**<i class="fa-solid fa-circle-exclamation"></i> Early days and funding shortages**
+**<i class="fa-solid fa-circle-exclamation"></i> Funding shortages**
 
-Our [admin team](/team) is committed to building this community, and funding shortages will be supplemented out-of-pocket to keep the server afloat.
+We are committed to building this community, and funding shortages will be supplemented out-of-pocket to keep the server afloat.
 
 We subscribe to the [Mastodon Server Covenant](https://joinmastodon.org/covenant) and will provide at least 3 months of advance warning if this becomes unsustainable.
 
@@ -24,29 +33,32 @@ We subscribe to the [Mastodon Server Covenant](https://joinmastodon.org/covenant
 
 When you [make a donation](/support), we do a couple of things:
 
-1.  **The money is transferred into an interest-bearing, FDIC-insured savings account.**
-2.  **We will build and maintain a 6 month float of running costs**, so we have funding in place should we need extra cash for things like an unexpected server upgrade.
-3.  If we greatly exceed our float, **we will establish a process for patrons/members to vote on new features or improvements to the community, or for donations** (both to local Connecticut causes, as well as important online causes related to Mastodon, the Fediverse, and the like).
+1.  **Transfer the money into interest-bearing, FDIC-insured savings.**
+2.  **Build and maintain a 6 month float of running expenses**, so we have funding in place should we need extra cash for things like an unexpected server upgrade.
 
-## Current funding
+If we greatly exceed our float, we will establish a process for patrons/members to vote on new features or improvements to the community, or for donations to important causes.
 
-*The details below are accurate as of **December 27, 2022**.*
-
-- **Monthly Revenue: $3.12**
-  - Ko-fi Subscriptions, $5.00/mo
-  - Minus fees, $1.88/mo
-- **Monthly Expenses: $19.64**
-  - Mastodon server, $11.59/mo
-  - S3 (media) hosting, $5.99/mo
-  - Domain name, $24.65/yr (~$2.06/mo)
-- **Gross Margin: -$16.52**
-
-With our current funding of **$38.12** and a monthly margin of **$-16.52**, we have enough donations to support the instance for an estimated **2.3 months**.
-## Ledger
+## Detailed view
 
 *This is a detailed view of Nutmeg.social's expenses, as well as a monthly summary of donations received.*
 
-<details markdown="1" open>
+<details markdown="1">
+<summary>Revenue, expenses, and margin (estimated)</summary>
+
+**Monthly Revenue: $3.12**
+  - Ko-fi Subscriptions, $5.00/mo
+  - Minus fees, $1.88/mo
+
+**Monthly Expenses: $19.64**
+  - Mastodon server, $11.59/mo
+  - S3 (media) hosting, $5.99/mo
+  - Domain name, $24.65/yr (~$2.06/mo)
+
+**Gross Margin: -$16.52**
+
+</details>
+
+<details markdown="1">
 <summary>December 2022</summary>
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |

@@ -12,12 +12,12 @@ We want to be as transparent as possible when it comes to the support we receive
 
 ## Current funding
 
-*Last updated **December 28, 2022**.*
+*Last updated **December 29, 2022**.*
 
 <label for="margin">Recurring donations/sponsorships currently cover about 15% of our monthly expenses.</label>
 <progress id="margin" value="3.12" max="19.64"></progress>
 
-We currently have **$38.12** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **2.3 months**.
+We currently have **$61.76** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **3.7 months**.
 
 ## How funds are assigned
 
@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Dec/22   | Donations (minus fees)           | 40.00     | 1.88       |  38.12  |
+| Dec/22   | Donations (minus fees)           | 65.00     | 3.24       |  61.76  |
 | 12/10/22 | Server Hosting (1mo)             |           | 11.59      |   0.00  |
 | 12/10/22 | Domain registration (1yr)        |           | 24.65      |  11.59  |
 | 12/10/22 | Funding from [admin team](/team) | 36.24     |            |  36.24  |

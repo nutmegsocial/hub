@@ -7,8 +7,12 @@ layout: default
 # Contact Us
 
 <details open>
-  <summary>👩‍💻 SUPPORT ENQUIRIES</summary>
+  <summary>👩‍💻 SUPPORT</summary>
   <p>If you're having problems accessing your account, or with Nutmeg.social/Mastodon in general, please use this email address to get in touch:</p>
 
   <p><b><a href="mailto:hello@nutmeg.social">hello@nutmeg.social</a></b></p>
 </details>
+
+## Meet The Team
+
+{% include team.html %}

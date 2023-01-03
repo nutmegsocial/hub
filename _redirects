@@ -1,7 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/code-of-conduct    /coc
-/contact-us         /contact
-/support-us         /support
-/the-team           /contact
-/team               /contact
-/feed               /feed.xml

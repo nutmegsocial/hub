@@ -3,6 +3,7 @@ title: Support Nutmeg.social
 description: Information on how you can help keep the lights on.
 permalink: /support/
 layout: default
+redirect_from: /support-us
 ---
 # Support Us
 

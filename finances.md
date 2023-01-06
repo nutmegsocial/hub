@@ -12,12 +12,12 @@ We want to be as transparent as possible when it comes to the support we receive
 
 ## Current funding
 
-*Last updated **January 3, 2023**.*
+*Last updated **January 6, 2023**.*
 
 <label for="margin">Recurring donations/sponsorships currently cover about 15% of our monthly expenses.</label>
 <progress id="margin" value="3.12" max="19.64"></progress>
 
-We currently have **$61.80** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **3.7 months**.
+We currently have **$136.80** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **8 months**.
 
 ## How funds are assigned
 
@@ -63,6 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
+| Jan/23   | Donations (minus fees)           | 75.00     |            | 136.80  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |
 | 1/1/23   | Starting Balance                 |           |            |  61.76  |
 

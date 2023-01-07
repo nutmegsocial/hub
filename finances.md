@@ -14,10 +14,10 @@ We want to be as transparent as possible when it comes to the support we receive
 
 *Last updated **January 6, 2023**.*
 
-<label for="margin">Recurring donations/sponsorships currently cover about 15% of our monthly expenses.</label>
-<progress id="margin" value="3.12" max="19.64"></progress>
+<label for="margin">Recurring donations/sponsorships currently cover about 18% of our monthly expenses.</label>
+<progress id="margin" value="3.63" max="19.64"></progress>
 
-We currently have **$136.80** in cash, and a monthly margin of **$-16.52**. This will support the instance for an estimated **8 months**.
+We currently have **$137.56** in cash, and a monthly margin of **$-16.01**. This will support the instance for an estimated **8 months**.
 
 ## How funds are assigned
 
@@ -45,16 +45,16 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 <details markdown="1">
 <summary>Revenue, expenses, and margin (estimated)</summary>
 
-**Monthly Revenue: $3.12**
-  - Ko-fi Subscriptions, $5.00/mo
-  - Minus fees, $1.88/mo
+**Monthly Revenue: $3.63**
+  - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
+  - Patreon Subscriptions, $1.00/mo minus $0.49 in fees
 
 **Monthly Expenses: $19.64**
   - Mastodon server, $11.59/mo
   - S3 (media) hosting, $5.99/mo
   - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$16.52**
+**Gross Margin: -$16.01**
 
 </details>
 
@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 75.00     |            | 136.80  |
+| Jan/23   | Donations (minus fees)           | 76.00     | 0.24       | 137.56  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |
 | 1/1/23   | Starting Balance                 |           |            |  61.76  |
 

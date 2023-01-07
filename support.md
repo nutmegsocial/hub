@@ -1,36 +1,81 @@
 ---
-title: Support Nutmeg.social
-description: Information on how you can help keep the lights on.
+title: Support Us | Nutmeg.social Hub
+description: Info on how our instance is funded, and how you can help.
 permalink: /support/
 layout: default
-redirect_from: /support-us
 ---
 # Support Us
 
-Running a project like Nutmeg.social [can be expensive](/finances/#current-funding) and take a lot of time. If you want to help support the project financially you can do so in a number of ways:
+Running a social network can be expensive, so we accept donations in various forms:
 
 {% include donate-buttons.html %}
 
-## Other ways to support us
+If you can't contribute financially, that's okay – nutmeg.social will always be free for all!
 
-We don't just need financial support. If you don't want to support us financially, that's absolutely fine - Nutmeg.social is a free service and always will be.
+## Current funding
 
-If you're a Nutmeg.social member and want to contribute to the project without your wallet, here are some ideas:
+*Last updated **January 6, 2023**.*
 
-*   Report any posts that you feel violate our [CoC](/coc/).
-*   Keep sharing interesting posts that spark discussion and debate.
-*   Be excellent to each other.
+<label for="margin">Recurring donations/sponsorships currently cover about 18% of our monthly expenses.</label>
+<progress id="margin" value="3.63" max="19.64"></progress>
 
-## Our Promise to you
+We currently have **$137.56** in cash, and a monthly margin of **$-16.01**. This will support the instance for an estimated **8 months**.
 
-The last thing you want to see when you put your own money into a project is that money wasted or have that project disappear overnight without a trace. We understand that, and we want to be as transparent about this as possible.
+## How funds are assigned
 
-We will keep 6 months of funding in our account to keep the lights on at Nutmeg.social. Any funds above and beyond that are collected and donated to a project chosen by our contributors.
+<aside markdown="1">
 
-If for some reason we decide to shutdown Nutmeg.social, we will stop taking contributions immediately and use the funds already in our account to fund the service for as long as they will allow (with a minimum of 3 months). That should give everybody an opportunity to find a new home in the Fediverse.
+**<i class="fa-solid fa-circle-exclamation"></i> Our promise to you**
 
-We love our community here at Nutmeg.social, and we have no plans to hit the Off switch, but because we know nothing can last forever we want to assure you that we won't just disappear and leave you high and dry.
+We love our community and have no plans to hit the Off switch. However, if for some reason we decide to shutdown, we will stop taking contributions and use our funds to keep the service running as long as they allow (with a minimum of 3 months), giving everyone time to find a new home in the Fediverse.
 
-## Thank you
+</aside>
 
-Finally, we wanted to end this page with a quick thank you. The support that the community gives us, both financially and otherwise, really helps Nutmeg.social to continue to go from strength to strength.
+When you make a donation, we do a couple of things:
+
+1.  **Transfer the money into interest-bearing, FDIC-insured savings.**
+2.  **Build and maintain a 6 month float of running expenses**, so we have funding in place should we need extra cash for things like an unexpected server upgrade.
+
+If we greatly exceed our float, we will establish a process for patrons/members to vote on new features or improvements to the community, or for donations to important causes.
+
+## Detailed view
+
+*This is a detailed view of Nutmeg.social's expenses, as well as a monthly summary of donations received.*
+
+<details markdown="1">
+<summary>Revenue, expenses, and margin (estimated)</summary>
+
+**Monthly Revenue: $3.63**
+  - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
+  - Patreon Subscriptions, $1.00/mo minus $0.49 in fees
+
+**Monthly Expenses: $19.64**
+  - Mastodon server, $11.59/mo
+  - S3 (media) hosting, $5.99/mo
+  - Domain name, $24.65/yr (~$2.06/mo)
+
+**Gross Margin: -$16.01**
+
+</details>
+
+<details markdown="1">
+<summary>January 2023</summary>
+
+| Date     | Description                      | Debit (+) | Credit (-) | Balance |
+|:--------:|:---------------------------------|----------:|-----------:|--------:|
+| Jan/23   | Donations (minus fees)           | 76.00     | 0.24       | 137.56  |
+| 1/1/23   | Interest                         |  0.04     |            |  61.80  |
+| 1/1/23   | Starting Balance                 |           |            |  61.76  |
+
+</details>
+<details markdown="1">
+<summary>December 2022</summary>
+
+| Date     | Description                      | Debit (+) | Credit (-) | Balance |
+|:--------:|:---------------------------------|----------:|-----------:|--------:|
+| Dec/22   | Donations (minus fees)           | 65.00     | 3.24       |  61.76  |
+| 12/10/22 | Server Hosting (1mo)             |           | 11.59      |   0.00  |
+| 12/10/22 | Domain registration (1yr)        |           | 24.65      |  11.59  |
+| 12/10/22 | Funding from [admin team](/team) | 36.24     |            |  36.24  |
+
+</details>

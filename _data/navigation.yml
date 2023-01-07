@@ -1,11 +1,11 @@
 - name: Home
   link: /
 
-- name: Finances
-  link: /finances/
-
 - name: Code of Conduct
   link: /coc/
+
+- name: FAQ
+  link: /faq/
 
 - name: Support Us
   link: /support/

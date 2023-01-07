@@ -16,3 +16,7 @@ permalink: "/:title"
 # RSS feeds
 feed:
   posts_limit: 20
+
+#Netlify redirects
+include:
+  - _redirects

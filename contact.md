@@ -3,10 +3,6 @@ title: Contact | Nutmeg.social Hub
 description: Want to get in touch? This page tells you how.
 permalink: /contact/
 layout: default
-redirect_from:
-  - /contact-us
-  - /team
-  - /the-team
 ---
 # Contact Us
 

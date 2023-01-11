@@ -14,12 +14,12 @@ If you can't contribute financially, that's okay – nutmeg.social will always b
 
 ## Current funding
 
-*Last updated **January 6, 2023**.*
+*Last updated **January 11, 2023**.*
 
 <label for="margin">Recurring donations/sponsorships currently cover about 18% of our monthly expenses.</label>
 <progress id="margin" value="3.63" max="19.64"></progress>
 
-We currently have **$137.56** in cash, and a monthly margin of **$-16.01**. This will support the instance for an estimated **8 months**.
+We currently have **$127.16** in cash, and a monthly margin of **$-16.07**. This will support the instance for an estimated **7 months**.
 
 ## How funds are assigned
 
@@ -49,12 +49,12 @@ If we greatly exceed our float, we will establish a process for patrons/members 
   - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
   - Patreon Subscriptions, $1.00/mo minus $0.49 in fees
 
-**Monthly Expenses: $19.64**
+**Monthly Expenses: $19.70**
   - Mastodon server, $11.59/mo
-  - S3 (media) hosting, $5.99/mo
+  - S3 (media) hosting, $6.05/mo
   - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$16.01**
+**Gross Margin: -$16.07**
 
 </details>
 
@@ -63,7 +63,9 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 76.00     | 0.24       | 137.56  |
+| Jan/23   | Donations (minus fees)           | 81.00     | 0.99       | 127.16  |
+| 1/9/23   | S3 Object Storage                |           | 6.05       |  47.15  |
+| 1/9/23   | Server Hosting                   |           | 8.60       |  53.20  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |
 | 1/1/23   | Starting Balance                 |           |            |  61.76  |
 

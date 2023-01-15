@@ -14,12 +14,12 @@ If you can't contribute financially, that's okay – nutmeg.social will always b
 
 ## Current funding
 
-*Last updated **January 11, 2023**.*
+*Last updated **January 15, 2023**.*
 
-<label for="margin">Recurring donations/sponsorships currently cover about 18% of our monthly expenses.</label>
-<progress id="margin" value="3.63" max="19.64"></progress>
+<label for="margin">Recurring donations/sponsorships currently cover about 39% of our monthly expenses.</label>
+<progress id="margin" value="7.78" max="19.70"></progress>
 
-We currently have **$127.16** in cash, and a monthly margin of **$-16.07**. This will support the instance for an estimated **7 months**.
+We currently have **$131.31** in cash, and a monthly margin of **$-11.92**. This will support the instance for an estimated **11 months**.
 
 ## How funds are assigned
 
@@ -45,16 +45,16 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 <details markdown="1">
 <summary>Revenue, expenses, and margin (estimated)</summary>
 
-**Monthly Revenue: $3.63**
+**Monthly Revenue: $7.78**
   - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
-  - Patreon Subscriptions, $1.00/mo minus $0.49 in fees
+  - Patreon Subscriptions, $6.00/mo minus $1.34 in fees
 
 **Monthly Expenses: $19.70**
   - Mastodon server, $11.59/mo
   - S3 (media) hosting, $6.05/mo
   - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$16.07**
+**Gross Margin: -$11.92**
 
 </details>
 
@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 81.00     | 0.99       | 127.16  |
+| Jan/23   | Donations (minus fees)           | 86.00     | 1.84       | 131.31  |
 | 1/9/23   | S3 Object Storage                |           | 6.05       |  47.15  |
 | 1/9/23   | Server Hosting                   |           | 8.60       |  53.20  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |

@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 86.00     | 1.84       | 131.31  |
+| Jan/23   | Donations (minus fees)           | 87.32     | 2.12       | 132.35  |
 | 1/9/23   | S3 Object Storage                |           | 6.05       |  47.15  |
 | 1/9/23   | Server Hosting                   |           | 8.60       |  53.20  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |

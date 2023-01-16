@@ -16,10 +16,10 @@ If you can't contribute financially, that's okay – nutmeg.social will always b
 
 *Last updated **January 15, 2023**.*
 
-<label for="margin">Recurring donations/sponsorships currently cover about 39% of our monthly expenses.</label>
-<progress id="margin" value="7.78" max="19.70"></progress>
+<label for="margin">Recurring donations/sponsorships currently cover about 48% of our monthly expenses.</label>
+<progress id="margin" value="9.53" max="19.70"></progress>
 
-We currently have **$131.31** in cash, and a monthly margin of **$-11.92**. This will support the instance for an estimated **11 months**.
+We currently have **$132.35** in cash, and a monthly margin of **$-10.17**. This will support the instance for an estimated **13 months**.
 
 ## How funds are assigned
 
@@ -45,16 +45,16 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 <details markdown="1">
 <summary>Revenue, expenses, and margin (estimated)</summary>
 
-**Monthly Revenue: $7.78**
+**Monthly Revenue: $9.53**
   - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
-  - Patreon Subscriptions, $6.00/mo minus $1.34 in fees
+  - Patreon Subscriptions, $8.00/mo minus $1.59 in fees
 
 **Monthly Expenses: $19.70**
   - Mastodon server, $11.59/mo
   - S3 (media) hosting, $6.05/mo
   - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$11.92**
+**Gross Margin: -$10.17**
 
 </details>
 

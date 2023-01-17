@@ -3,7 +3,6 @@ title: CoC | Nutmeg.social Hub
 description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
-redirect_from: /code-of-conduct
 ---
 # Code of Conduct
 {:.no_toc}

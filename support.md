@@ -19,7 +19,7 @@ If you can't contribute financially, that's okay – nutmeg.social will always b
 <label for="margin">Recurring donations/sponsorships currently cover about 48% of our monthly expenses.</label>
 <progress id="margin" value="9.53" max="19.70"></progress>
 
-We currently have **$132.35** in cash, and a monthly margin of **$-10.17**. This will support the instance for an estimated **13 months**.
+We currently have **$132.78** in cash, and a monthly margin of **$-10.17**. This will support the instance for an estimated **13 months**.
 
 ## How funds are assigned
 
@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 87.32     | 2.12       | 132.35  |
+| Jan/23   | Donations (minus fees)           | 88.32     | 2.69       | 132.78  |
 | 1/9/23   | S3 Object Storage                |           | 6.05       |  47.15  |
 | 1/9/23   | Server Hosting                   |           | 8.60       |  53.20  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |

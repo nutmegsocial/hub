@@ -14,12 +14,12 @@ If you can't contribute financially, that's okay – nutmeg.social will always b
 
 ## Current funding
 
-*Last updated **January 15, 2023**.*
+*Last updated **January 25, 2023**.*
 
-<label for="margin">Recurring donations/sponsorships currently cover about 48% of our monthly expenses.</label>
-<progress id="margin" value="9.53" max="19.70"></progress>
+<label for="margin">Recurring donations/sponsorships currently cover about 61% of our monthly expenses.</label>
+<progress id="margin" value="12.09" max="19.70"></progress>
 
-We currently have **$132.35** in cash, and a monthly margin of **$-10.17**. This will support the instance for an estimated **13 months**.
+We currently have **$138.17** in cash, and a monthly margin of **$-7.61**. This will support the instance for an estimated **18 months**.
 
 ## How funds are assigned
 
@@ -45,16 +45,16 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 <details markdown="1">
 <summary>Revenue, expenses, and margin (estimated)</summary>
 
-**Monthly Revenue: $9.53**
-  - Ko-fi Subscriptions, $5.00/mo minus $1.88/mo in fees
-  - Patreon Subscriptions, $8.00/mo minus $1.59 in fees
+**Monthly Revenue: $12.09**
+  - Ko-fi Subscriptions, $4.00/mo minus $1.31/mo in fees
+  - Patreon Subscriptions, $12.00/mo minus $2.60 in fees
 
 **Monthly Expenses: $19.70**
   - Mastodon server, $11.59/mo
   - S3 (media) hosting, $6.05/mo
   - Domain name, $24.65/yr (~$2.06/mo)
 
-**Gross Margin: -$10.17**
+**Gross Margin: -$7.61**
 
 </details>
 
@@ -63,7 +63,7 @@ If we greatly exceed our float, we will establish a process for patrons/members 
 
 | Date     | Description                      | Debit (+) | Credit (-) | Balance |
 |:--------:|:---------------------------------|----------:|-----------:|--------:|
-| Jan/23   | Donations (minus fees)           | 87.32     | 2.12       | 132.35  |
+| Jan/23   | Donations (minus fees)           | 94.32     | 3.30       | 138.17  |
 | 1/9/23   | S3 Object Storage                |           | 6.05       |  47.15  |
 | 1/9/23   | Server Hosting                   |           | 8.60       |  53.20  |
 | 1/1/23   | Interest                         |  0.04     |            |  61.80  |
